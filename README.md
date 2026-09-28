@@ -1,2 +1,20 @@
-# Final Project - Git and GitHub
-This repository contains the completed tasks for the Git and GitHub final assessment.
+# Simple Interest Calculator
+
+This project contains a Bash script to calculate simple interest.
+
+## Formula
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Input
+
+- Principal amount
+- Rate of interest
+- Time period
+
+## Usage
+
+Run the script using:
+
+```bash
+bash simple-interest.sh
