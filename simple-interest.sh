@@ -1,0 +1,12 @@
+#!/bin/bash
+# Simple Interest Calculator
+
+echo "Enter Principal:"
+read p
+echo "Enter Rate of Interest:"
+read r
+echo "Enter Time Period (years):"
+read t
+
+s=`expr \(p \*\)r \* $t / 100`
+echo "The Simple Interest is: $s"
